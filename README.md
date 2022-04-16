@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
@@ -47,6 +47,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Seanpm2001-JSON-lang"><img src="https://avatars.githubusercontent.com/u/93161824?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 JSON language</b></sub></a><br /><a href="https://github.com/seanpm2001/Project-Aquarius/commits?author=seanpm2001-json-lang" title="Code">💻</a> <a href="https://github.com/seanpm2001/Project-Aquarius/commits?author=seanpm2001-json-lang" title="Documentation">📖</a> <a href="#projectManagement-seanpm2001-json-lang" title="Project Management">📆</a> <a href="#security-seanpm2001-json-lang" title="Security">🛡️</a> <a href="#data-seanpm2001-json-lang" title="Data">🔣</a> <a href="#content-seanpm2001-json-lang" title="Content">🖋</a> <a href="#design-seanpm2001-json-lang" title="Design">🎨</a> <a href="#maintenance-seanpm2001-json-lang" title="Maintenance">🚧</a> <a href="#ideas-seanpm2001-json-lang" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://upload.wikimedia.org/wikipedia/commons/a/ac/Kbibtex-icon.png"><img src="https://avatars.githubusercontent.com/u/85581998?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 BiBTex language</b></sub></a><br /><a href="https://github.com/seanpm2001/Project-Aquarius/commits?author=seanpm2001-bibtex-lang" title="Code">💻</a> <a href="https://github.com/seanpm2001/Project-Aquarius/commits?author=seanpm2001-bibtex-lang" title="Documentation">📖</a> <a href="#projectManagement-seanpm2001-bibtex-lang" title="Project Management">📆</a> <a href="#security-seanpm2001-bibtex-lang" title="Security">🛡️</a> <a href="#data-seanpm2001-bibtex-lang" title="Data">🔣</a> <a href="#content-seanpm2001-bibtex-lang" title="Content">🖋</a> <a href="#design-seanpm2001-bibtex-lang" title="Design">🎨</a> <a href="#maintenance-seanpm2001-bibtex-lang" title="Maintenance">🚧</a> <a href="#ideas-seanpm2001-bibtex-lang" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
