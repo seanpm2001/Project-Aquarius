@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
@@ -56,6 +56,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Project-Aquarius"><img src="https://avatars.githubusercontent.com/u/103785139?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Project Aquarius</b></sub></a><br /><a href="https://github.com/seanpm2001/Project-Aquarius/commits?author=project-aquarius" title="Code">💻</a> <a href="https://github.com/seanpm2001/Project-Aquarius/commits?author=project-aquarius" title="Documentation">📖</a> <a href="#projectManagement-project-aquarius" title="Project Management">📆</a> <a href="#security-project-aquarius" title="Security">🛡️</a> <a href="#data-project-aquarius" title="Data">🔣</a> <a href="#content-project-aquarius" title="Content">🖋</a> <a href="#design-project-aquarius" title="Design">🎨</a> <a href="#maintenance-project-aquarius" title="Maintenance">🚧</a> <a href="#ideas-project-aquarius" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/AquariOS-dev/"><img src="https://avatars.githubusercontent.com/u/103785622?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AquariOS (Aquarium Operating System)</b></sub></a><br /><a href="https://github.com/seanpm2001/Project-Aquarius/commits?author=aquariOS-dev" title="Code">💻</a> <a href="https://github.com/seanpm2001/Project-Aquarius/commits?author=aquariOS-dev" title="Documentation">📖</a> <a href="#projectManagement-aquariOS-dev" title="Project Management">📆</a> <a href="#security-aquariOS-dev" title="Security">🛡️</a> <a href="#data-aquariOS-dev" title="Data">🔣</a> <a href="#content-aquariOS-dev" title="Content">🖋</a> <a href="#design-aquariOS-dev" title="Design">🎨</a> <a href="#maintenance-aquariOS-dev" title="Maintenance">🚧</a> <a href="#ideas-aquariOS-dev" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
